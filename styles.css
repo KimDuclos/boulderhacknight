@@ -136,6 +136,10 @@ footer {
     font-family: "Shrikhand"; 
 }
 
+:link {
+    text-decoration: none;
+}
+
 .danson {
     height: 1.5%;
     width: 1.5%;;
