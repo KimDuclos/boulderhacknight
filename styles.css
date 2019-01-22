@@ -124,7 +124,7 @@ i {
 
 .arrow-up {
     text-align: center;
-    margin: 3% 0 0 0;
+    margin: 0 0 0 0;
 }
 
 footer {
@@ -132,8 +132,12 @@ footer {
     font-size: 1.2rem;
     text-align: center;
     margin: 20% 0 0 0;
-    padding: 0 0 1% 0;
+    padding: 0 0 1% 2%;
     font-family: "Shrikhand"; 
+}
+
+:link {
+    text-decoration: none;
 }
 
 .danson {
